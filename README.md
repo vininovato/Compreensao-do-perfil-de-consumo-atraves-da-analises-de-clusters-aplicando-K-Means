@@ -1,4 +1,4 @@
-# Compreensao-do-perfil-de-consumo-atraves-da-analises-de-clusters-aplicando-K-Means
+# Compreensao-do-perfil-de-consumo-atraves-da-analise-de-clusters-aplicando-K-Means
 PoC  - pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 ### Resumo
 Em uma realidade de mercado cada vez mais competitiva e dinâmica, mostrou-se necessário entender a persona, ou seja, a representação do cliente ideal para determinado produto ou serviço. A necessidade trouxe novos desafios para o marketing, tanto em termos competitivos, como na compreensão dos perfis de compra em escala global. Dessa forma, o marketing tradicional precisou se aliar a ferramentas estatísticas para condensar, processar e compreender o imenso volume das transações. Otimizar e personalizar são os termos que guiam empresas com nível considerável de conhecimento operacional e estratégico. Neste trabalho, será utilizado uma base de dados com informações demográficas e histórico de compras. O intuito é compreender os dados e como relacionar os atributos de forma a estabelecer perfis de consumo através de algoritmos de clusterização
