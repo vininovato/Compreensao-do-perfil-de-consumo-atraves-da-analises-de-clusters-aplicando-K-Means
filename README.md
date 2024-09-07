@@ -72,7 +72,13 @@ Finalmente, os diferentes diagramas boxplot apontam que a renda para o cluster 3
 
 Portanto, é plausível concluir que o comportamento dos clusters apresenta relação real entre os atributos. Considerações para os outros clusters podem ser utilizadas como ferramentas de suporte à decisão para equipes comerciais e de marketing. Para mais desdobramentos, é possível tratar as análises em níveis de categoria de produto, testes A/B para campanhas online e mecânicas de desconto. 
 
+---
 
+Matrícula: 123.456.789
+
+Pontifícia Universidade Católica do Rio de Janeiro
+
+Curso de Pós Graduação *Business Intelligence Master*
 
 
 
