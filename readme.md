@@ -76,9 +76,12 @@ Durante a avaliação visual, o silhouette diagram demonstra a distribuição de
 O método indica a escolha otimizada deve considerar silhuetas que demonstrem quantidade de dados semelhante e que passem da linha tracejada. Nesse caso, a escolha foi reforçada para 3 e 4 clusters.
 Conforme gráficos abaixo, o silhouette score para 3 clusters indica maior dissimilaridade. Para 4 clusters é possível notar a sobreposição dos dados. As duas relações devem ser validadas analisando a relação dos atributos com os labels em cada cluster.
 
+Diferença entre o silhouette score indica o cotovelo.
 ![image](https://github.com/user-attachments/assets/029456fe-7442-4455-ad80-63fe1d9b03ad)
 
+
 ![image](https://github.com/user-attachments/assets/f6174191-b58e-4bec-88e5-0c5fb4fb656f)
+
 
 ![image](https://github.com/user-attachments/assets/62c34a1d-23dc-4b99-b4a5-c59d70950e10)
 
