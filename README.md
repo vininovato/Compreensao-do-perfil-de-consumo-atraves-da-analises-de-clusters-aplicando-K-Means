@@ -1,19 +1,25 @@
-Compreensão do perfil de consumo através da análise de clusters aplicando K Means
-Aluno: Vinicius Gomes Novato
-Orientadora: Nome Sobrenome.
-Trabalho apresentado ao curso BI MASTER como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
+<!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
+# Compreensão do perfil de consumo através da análise de clusters aplicando K Means
 
-Link para o código.
+#### Aluno: [Vinicius Gomes Novato](https://github.com/vininovato/Compreensao-do-perfil-de-consumo-atraves-da-analises-de-clusters-aplicando-K-Means)
+#### Orientadora: [Nome Sobrenome]
 
-Link para a monografia.
 
-Trabalhos relacionados:
+---
 
-Nome do Trabalho 1.
-Nome do Trabalho 2.
+Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-# Compreensao-do-perfil-de-consumo-atraves-da-analise-de-clusters-aplicando-K-Means
-PoC  - pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
+<!-- para os links a seguir, caso os arquivos estejam no mesmo repositório que este README, não há necessidade de incluir o link completo: basta incluir o nome do arquivo, com extensão, que o GitHub completa o link corretamente -->
+- [Link para o código](https://github.com/link_do_repositorio). <!-- caso não aplicável, remover esta linha -->
+
+- [Link para a monografia](https://link_da_monografia.com). <!-- caso não aplicável, remover esta linha -->
+
+- Trabalhos relacionados: <!-- caso não aplicável, remover estas linhas -->
+    - [Nome do Trabalho 1](https://link_do_trabalho.com).
+    - [Nome do Trabalho 2](https://link_do_trabalho.com).
+
+---
+
 ### Resumo
 Em uma realidade de mercado cada vez mais competitiva e dinâmica, mostrou-se necessário entender a persona, ou seja, a representação do cliente ideal para determinado produto ou serviço. A necessidade trouxe novos desafios para o marketing, tanto em termos competitivos, como na compreensão dos perfis de compra em escala global. Dessa forma, o marketing tradicional precisou se aliar a ferramentas estatísticas para condensar, processar e compreender o imenso volume das transações. Otimizar e personalizar são os termos que guiam empresas com nível considerável de conhecimento operacional e estratégico. Neste trabalho, será utilizado uma base de dados com informações demográficas e histórico de compras. O intuito é compreender os dados e como relacionar os atributos de forma a estabelecer perfis de consumo através de algoritmos de clusterização
 
