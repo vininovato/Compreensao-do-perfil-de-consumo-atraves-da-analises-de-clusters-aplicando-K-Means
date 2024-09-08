@@ -51,6 +51,7 @@ A distribuição de dados para 3 clusters também foi mais equilibrada.
 ![image](https://github.com/user-attachments/assets/d645cbe0-8cf6-4381-a6bc-8c1b7cd40da5)
 
 A distribuição para 4 cluster, além de demonstrar maior desigualdade na quantidade de dados, também indicou a superposição na fronteira entre clusters.
+
 ![image](https://github.com/user-attachments/assets/f6df721d-194f-4aba-9ca3-4181fffa33b1)
 
 
