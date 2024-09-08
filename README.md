@@ -1,3 +1,17 @@
+Compreensão do perfil de consumo através da análise de clusters aplicando K Means
+Aluno: Vinicius Gomes Novato
+Orientadora: Nome Sobrenome.
+Trabalho apresentado ao curso BI MASTER como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
+
+Link para o código.
+
+Link para a monografia.
+
+Trabalhos relacionados:
+
+Nome do Trabalho 1.
+Nome do Trabalho 2.
+
 # Compreensao-do-perfil-de-consumo-atraves-da-analise-de-clusters-aplicando-K-Means
 PoC  - pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 ### Resumo
