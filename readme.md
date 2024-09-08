@@ -61,7 +61,7 @@ Finalmente, foram aplicados os métodos de avaliação para auxiliar o número d
 
 ### 3. Resultados
 
-Antes da aplicação dos modelos, a avaliação para decidir os N Clusters foi feita através do silhouette score e diagram.
+Antes da aplicação dos modelos, a avaliação para decidir os N Clusters foi feita através do silhouette score e silhouette diagram.
 
 ![image](https://github.com/user-attachments/assets/3d85da0e-ef09-47c9-880b-039a0ca82fdd)
 
@@ -69,7 +69,7 @@ O gráfico demonstrou cotovelo de 3 para 4 clusters. Os valores calculados para 
 
 ![image](https://github.com/user-attachments/assets/ef5e850b-fbf4-4b65-a128-be85686f957a)
 
-Considerando uma avaliação visual, o silhouette diagram demonstra o número de clusters, linha tracejada vertical que indica a média do silhouette score, e o tamanho de cada cluster.
+Durante a avaliação visual, o silhouette diagram demonstra a distribuição de dados entre o número de clusters, e linha tracejada fornece a média do silhouette score.
 
 ![image](https://github.com/user-attachments/assets/8e50830b-1d6b-4a2a-b436-96602eaab314)
 
