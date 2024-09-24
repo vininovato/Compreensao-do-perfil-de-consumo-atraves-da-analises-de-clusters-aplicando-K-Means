@@ -44,20 +44,25 @@ Finalmente, foram aplicados os métodos de avaliação para auxiliar o número d
 
 ### 3. Resultados
 Antes da aplicação dos modelos, a avaliação para decidir os N Clusters foi feita através do silhouette score e diagram.
+
 ![image](https://github.com/user-attachments/assets/3d85da0e-ef09-47c9-880b-039a0ca82fdd)
 
 O gráfico demonstrou cotovelo de 3 para 4 clusters. Os valores calculados para cada cluster mostram que, dentro do intervalo de avaliação do silhouette score [-1,1], os valores positivos e próximos de 0 indicam parte dos dados de diferentes clusters com sobreposição. 
+
 ![image](https://github.com/user-attachments/assets/ef5e850b-fbf4-4b65-a128-be85686f957a)
 
 Considerando uma avaliação visual, o silhouette diagram demonstra o número de clusters, linha tracejada vertical que indica a média do silhouette score, e o tamanho de cada cluster.
 
 ![image](https://github.com/user-attachments/assets/8e50830b-1d6b-4a2a-b436-96602eaab314)
+
 O método indica a escolha otimizada deve considerar silhuetas que demonstrem quantidade de dados semelhante e que passem da linha tracejada. Nesse caso, a escolha foi reforçada para 3 e 4 clusters.
 
 Conforme gráficos abaixo, o silhouette score para 3 clusters indica maior dissimilaridade. Para 4 clusters é possível notar a sobreposição dos dados. As duas relações devem ser validadas analisando a relação dos atributos com os labels em cada cluster.
 
 ![image](https://github.com/user-attachments/assets/029456fe-7442-4455-ad80-63fe1d9b03ad)
+
 ![image](https://github.com/user-attachments/assets/f6174191-b58e-4bec-88e5-0c5fb4fb656f)
+
 ![image](https://github.com/user-attachments/assets/62c34a1d-23dc-4b99-b4a5-c59d70950e10)
 
 A distribuição de dados para 3 clusters também foi mais equilibrada.
@@ -79,9 +84,11 @@ Para o primeiro gráfico de dispersão, a distribuição foi semelhante para dif
 ![image](https://github.com/user-attachments/assets/a22ce8fc-adc9-41f0-b153-c164da94ac7d)
 
 Complementar ao gráfico acima, os dados abaixo demonstram que esse grupo é o que mais consome.
+
 ![image](https://github.com/user-attachments/assets/0a4854d9-293d-4b81-8a0e-9bd6e098cb94)
 
 O gráfico abaixo foi uma interpretação arbitrária, entre um determinado produto e o tamanho da família.
+
 ![image](https://github.com/user-attachments/assets/f60bede4-1ddc-4138-ad00-0fabb7150a94)
 
 Finalmente, os diferentes diagramas boxplot apontam que a renda para o cluster 3 é a mais alta. Esse fato reforça as informações anteriores. 
