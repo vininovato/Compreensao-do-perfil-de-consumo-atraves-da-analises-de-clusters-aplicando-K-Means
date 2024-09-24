@@ -45,7 +45,7 @@ Finalmente, foram aplicados os métodos de avaliação para auxiliar o número d
 ### 3. Resultados
 Antes da aplicação dos modelos, a avaliação para decidir os N Clusters foi feita através do silhouette score e diagram.
 
-[image](https://github.com/user-attachments/assets/3d85da0e-ef09-47c9-880b-039a0ca82fdd)
+![image](https://github.com/user-attachments/assets/3d85da0e-ef09-47c9-880b-039a0ca82fdd)
 
 O gráfico demonstrou cotovelo de 3 para 4 clusters. Os valores calculados para cada cluster mostram que, dentro do intervalo de avaliação do silhouette score [-1,1], os valores positivos e próximos de 0 indicam parte dos dados de diferentes clusters com sobreposição. 
 
